@@ -1,3 +1,9 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1736365881
+2a60927148abd1d33b818b535e306557
+::res://::1736441504
+example_scene.gd::GDScript::-1::1736372947::0::1::::<>Node<>::
+example_scene.tscn::PackedScene::1027652937488666502::1736441500::0::1::::<><>::res://example_scene.gd
 icon.svg::CompressedTexture2D::5568286262272950652::1736365878::1736365882::1::::<><>::
+README.md::TextFile::-1::1736365637::0::1::::<><>::
+red_arrows_tile.png::CompressedTexture2D::7052415149024594324::1736367608::1736371029::1::::<><>::
+::res://autoload/::1736367277
+background.tscn::PackedScene::6373749330969311360::1736367427::0::1::::<><>::
